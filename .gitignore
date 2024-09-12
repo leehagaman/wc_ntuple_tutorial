@@ -1,0 +1,7 @@
+*.png
+*.pdf
+*.svg
+*.root
+*.vscode
+*.DS_Store
+venv/
