@@ -4,4 +4,6 @@
 *.root
 *.vscode
 *.DS_Store
+*.pkl
 venv/
+plots/
