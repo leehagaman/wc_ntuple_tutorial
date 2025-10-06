@@ -6,3 +6,4 @@
 *.DS_Store
 *.pkl
 venv/
+__pycache__/
