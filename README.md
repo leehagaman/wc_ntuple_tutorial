@@ -20,3 +20,7 @@ scp <YOUR_USERNAME>@uboonegpvm01.fnal.gov:/exp/uboone/data/uboonepro/MCC9.10/run
 ## More Detailed Tutorial Including Data/MC Comparisons
 
 This version of the tutorial focuses on SURPRISE files, including newer WC spacepoints and PMT information. These files are larger, so we only download one for this tutorial. For a more detailed previous tutorial which loads all file types and included higher-level outputs like efficiencies and histograms, see https://github.com/leehagaman/wc_ntuple_tutorial/tree/d9afd57988188bb9c64595765cbb42fe27169985
+
+## More Documentation
+
+Currently a work in progress: https://www.overleaf.com/project/67d87eaafc48747c1cc92b42
