@@ -1,7 +1,7 @@
 
 # Tutorial For Using WC ntuples
 
-Created for the September 2024 MicroBooNE Analysis Workshop at the University of Minnesota.
+Created for the September 2024 MicroBooNE Analysis Workshop at the University of Minnesota, and updated for the October 2025 MicroBooNE Analysis workshop at the Illinois Institute of Technology.
 
 ## Getting Started
 
